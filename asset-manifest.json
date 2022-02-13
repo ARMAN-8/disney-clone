@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/arman-8.github.io/disney-clone/static/css/main.c454f9a6.chunk.css",
+    "main.js": "/arman-8.github.io/disney-clone/static/js/main.cbaa54ee.chunk.js",
+    "main.js.map": "/arman-8.github.io/disney-clone/static/js/main.cbaa54ee.chunk.js.map",
+    "runtime-main.js": "/arman-8.github.io/disney-clone/static/js/runtime-main.81948c2d.js",
+    "runtime-main.js.map": "/arman-8.github.io/disney-clone/static/js/runtime-main.81948c2d.js.map",
+    "static/css/2.7bd3de5b.chunk.css": "/arman-8.github.io/disney-clone/static/css/2.7bd3de5b.chunk.css",
+    "static/js/2.0f89e3c4.chunk.js": "/arman-8.github.io/disney-clone/static/js/2.0f89e3c4.chunk.js",
+    "static/js/2.0f89e3c4.chunk.js.map": "/arman-8.github.io/disney-clone/static/js/2.0f89e3c4.chunk.js.map",
+    "index.html": "/arman-8.github.io/disney-clone/index.html",
+    "static/css/2.7bd3de5b.chunk.css.map": "/arman-8.github.io/disney-clone/static/css/2.7bd3de5b.chunk.css.map",
+    "static/css/main.c454f9a6.chunk.css.map": "/arman-8.github.io/disney-clone/static/css/main.c454f9a6.chunk.css.map",
+    "static/js/2.0f89e3c4.chunk.js.LICENSE.txt": "/arman-8.github.io/disney-clone/static/js/2.0f89e3c4.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/arman-8.github.io/disney-clone/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81948c2d.js",
+    "static/css/2.7bd3de5b.chunk.css",
+    "static/js/2.0f89e3c4.chunk.js",
+    "static/css/main.c454f9a6.chunk.css",
+    "static/js/main.cbaa54ee.chunk.js"
+  ]
+}
