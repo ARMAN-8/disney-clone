@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8066cdb4-277a-45d8-bb06-50d957c75523" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/cta-logo-one.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/cta-logo-two.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/group-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/home-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/home-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/login-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/movie-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/original-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/play-icon-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/play-icon-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/search-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/series-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/slider-badag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/slider-badging.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/slider-scale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/slider-scales.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/viewers-disney.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/viewers-marvel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/viewers-national.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/viewers-pixar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/viewers-starwars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/watchlist-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/videos/1564674844-disney.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/videos/1564676115-marvel.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/videos/1564676296-national-geographic.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/videos/1564676714-pixar.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/videos/1608229455-star-wars.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImgSlider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NewDisney.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Originals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Recommends.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Trending.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Viewers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/movie/movieSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/user/userSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1vw9yqdVigcoxVLM0L54ffzHz1d" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/1/simple-react" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8066cdb4-277a-45d8-bb06-50d957c75523" name="Default Changelist" comment="" />
+      <created>1627462541350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627462541350</updated>
+      <workItem from="1627462544558" duration="6706000" />
+      <workItem from="1627526684557" duration="12238000" />
+      <workItem from="1627740610108" duration="92000" />
+      <workItem from="1629261075317" duration="26063000" />
+      <workItem from="1629429001108" duration="1806000" />
+      <workItem from="1629475565823" duration="232000" />
+      <workItem from="1629480935603" duration="268000" />
+      <workItem from="1629616360905" duration="13000" />
+      <workItem from="1629647584500" duration="330000" />
+      <workItem from="1629685247522" duration="1047000" />
+      <workItem from="1629731814221" duration="8000" />
+      <workItem from="1629770047171" duration="2477000" />
+      <workItem from="1629871987913" duration="18000" />
+      <workItem from="1633885535413" duration="598000" />
+      <workItem from="1633948318150" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
